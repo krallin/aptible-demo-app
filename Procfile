@@ -1,1 +1,1 @@
-web: httpd -f
+web: busybox httpd -f
